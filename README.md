@@ -1,2 +1,4 @@
 # Enron-Case
-Enron Case Dataset &amp; accompanying Code File to the Medium Article
+This repository contains the files and associated code to accompany the Medium Article:
+"Deriving Patterns of Fraud from the Enron Dataset" 
+https://towardsdatascience.com/deriving-patterns-of-fraud-from-the-enron-dataset-64cbceb65c36
